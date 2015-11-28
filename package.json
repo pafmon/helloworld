@@ -1,0 +1,22 @@
+{
+  "name": "helloword",
+  "version": "0.0.0",
+  "description": "My HelloWorld App",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor test/all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pafmon/helloworld.git"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "author": "Pablo FM <pafmon@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pafmon/helloworld/issues"
+  },
+  "homepage": "https://github.com/pafmon/helloworld#readme"
+}
